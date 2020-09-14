@@ -1,0 +1,6 @@
+framework module NewPodTT {
+  umbrella header "NewPodTT-umbrella.h"
+
+  export *
+  module * { export * }
+}
